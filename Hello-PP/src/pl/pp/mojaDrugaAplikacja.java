@@ -5,7 +5,7 @@ public class mojaDrugaAplikacja {
     public static void main(String[] args) {
 
         double x = 10;
-        //utworzeniezmiennej typu doublei przypisanie jej wartości 10
+        //utworzeniezmiennej typu double i przypisanie jej wartości 10
         double y = 2;
 
         Scanner scanner = new Scanner(System.in);

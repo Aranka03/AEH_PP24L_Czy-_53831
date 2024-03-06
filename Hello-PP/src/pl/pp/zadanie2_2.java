@@ -10,7 +10,7 @@ public class zadanie2_2 {
         System.out.println("Podaj swoj wiek w latach: ");
         int ageYears = scanner.nextInt();
 
-        // Zakladam, ze rok ma 365 dni
+        // Zakladam, ze rok ma 365 dni.
         int ageSec = ageYears * 365 * 24 * 60 * 60;
 
         System.out.println("Twoj wiek w sekudach: " + ageSec);
